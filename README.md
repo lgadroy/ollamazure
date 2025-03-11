@@ -141,7 +141,7 @@ Les droits utilisateurs ci-dessous suffisent pour communiquer avec les modèles 
 
 ## Conclusion
 
-Vous savez maintenant comment installer Ollama sur une machine déployée dans le Cloud, et y accéder à travers une interface web open-source, le tout sécurisé via le protocole HTTPS. Bravo!
+Vous savez maintenant comment installer Ollama sur une machine déployée dans le Cloud, et communiquer avec les modèles à travers une interface web open-source, le tout sécurisé via le protocole HTTPS. Bravo!
 
 ## Sources
 
