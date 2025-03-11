@@ -145,7 +145,7 @@ Vous savez maintenant comment installer Ollama sur une machine déployée dans l
 
 ## Sources
 
-https://ollama.com/
-https://github.com/open-webui/open-webui
-https://github.com/open-webui/open-webui/discussions/9534
-https://nginx.org/en/docs/http/websocket.html
+- https://ollama.com/
+- https://github.com/open-webui/open-webui
+- https://github.com/open-webui/open-webui/discussions/9534
+- https://nginx.org/en/docs/http/websocket.html
