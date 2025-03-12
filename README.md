@@ -20,7 +20,7 @@ Pour voir le tutoriel d'installation complet, [cliquez ici](install.md).
 
 Une fois le tutoriel terminé et un utilisateur créé, vous pouvez interagir avec le modèle de votre choix.
 
-![Alt text](images/message.png?raw=true "presentation")
+![Alt text](images/presentation.png?raw=true "presentation")
 
 ## Sources
 
