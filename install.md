@@ -122,7 +122,7 @@ Vous n'accéderez pas tout de suite aux modèles car il reste une chose à chang
 
 Vous pouvez désormais accéder à vos modèles et commencer à discuter.
 
-![Alt text](images/message.png?raw=true "message")
+![Alt text](images/message.png?raw=true "presentation")
 
 > N'oubliez pas d'explorer les options d'utilisateurs et de groupes d'utilisateurs afin de créer des utilisateurs pouvant uniquement communiquer avec les modèles que vous leur proposez. En session administrateur vous pouvez créer des modèles pour les utilisateurs, des prompts, ajouter une base de connaissances, et plus encore, ce qui fait beaucoup plus d'autorisations que nécessaire. Pensez à vous créer un utilisateur avec des droits appropriés.
 

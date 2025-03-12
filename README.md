@@ -14,11 +14,12 @@ Pour l'OS j'ai choisi Debian sans interface graphique, car je connais assez bien
 
 ## Installation
 
-Pour voir le tutoriel d'installation complet, [cliquez ici](install.md)
+Pour voir le tutoriel d'installation complet, [cliquez ici](install.md).
 
 ## Démonstration
 
 Une fois le tutoriel terminé et un utilisateur créé, vous pouvez interagir avec le modèle de votre choix.
+
 ![Alt text](images/message.png?raw=true "presentation")
 
 ## Sources
