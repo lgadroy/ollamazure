@@ -2,7 +2,7 @@
 
 ## Avant de commencer
 
-Ce court guide vous expliquera pas à pas comment mettre en place un chatbot sur une machine virtuelle sur Azure. L'objectif est que ce chatbot soit accessible depuis notre navigateur en HTTPS et nous fasse nous connecter à un compte utilisateur pour accéder à l'interface.
+Ce court guide vous accompagnera, étape par étape, dans la mise en place d'une IA conversationnelle sur une VM Azure. L'objectif est de rendre ce chatbot accessible depuis votre navigateur en HTTPS, tout en implémentant une connexion utilisateur pour accéder à l'interface.
 
 Nous utiliserons donc Ollama, un outil open-source capable d'exécuter des modèles d'IA sur une machine 'locale'. L'outil est compatible avec Windows, Linux et MacOS. Ollama ne proposant pas d'interface web nativement, nous allons installer Open WebUI, une interface open-source compatible avec Ollama. Enfin nous configurerons Nginx pour rendre le tout accessible en HTTPS.
 
